@@ -22,4 +22,4 @@ label.pack(anchor='center')
 
 time()
 
-#AND THEN WE ARE FINISHED THE PROGRAM :)
+#AND THEN WE FINISHED THE PROGRAM :)
